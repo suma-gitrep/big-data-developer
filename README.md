@@ -12,6 +12,9 @@ Front End Development, Android.
 
 ## Aside
 - The interesting thing about me is I am good at painting, decorating, and DIY stuff. 
+
 ## Links
+
 [GitHub](https://github.com/sumagits)
+
 [LinkedIn](https://www.linkedin.com/in/suma-soma-170b5580/)
