@@ -9,7 +9,7 @@
 
 - Here is some area's of interest I'm looking for:
 
-Front End Development, Android.
+  Front End Development, Android.
 
 ## Aside
 - The interesting thing about me is I am good at painting, decorating, and DIY stuff. 
